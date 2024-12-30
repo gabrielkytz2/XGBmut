@@ -104,4 +104,4 @@ Running examples:
 1-	Choose an example option: Short(#1) or Humsavar(#2).
 
 For more details on XGBMut usage:
-[View XGBMut Documentation](https://github.com/gabrielkytz2/xgbmut/raw/main/Readme.pdf)
+[XGBMut Documentation](https://github.com/gabrielkytz2/xgbmut/raw/main/Readme.pdf)
