@@ -1,5 +1,6 @@
 **XGBMut version 1.0**
 
+_________________________________________________________________________________________________
 For more details on XGBMut usage:
 [XGBMut Documentation](https://github.com/gabrielkytz2/xgbmut/raw/main/Readme.pdf)
 Download XGBMUT:
