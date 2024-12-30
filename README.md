@@ -1,4 +1,6 @@
 **XGBMut1.0**
-
-[Download the PDF](https://github.com/gabrielkytz2/xgbmut/blob/main/Readme.pdf)
+<iframe src="https://github.com/gabrielkytz2/xgbmut/blob/main/Readme.pdf" 
+        width="100%" 
+        height="600">
+</iframe>
 
