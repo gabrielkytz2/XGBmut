@@ -2,7 +2,7 @@
 
 _________________________________________________________________________________________________
 For more details on XGBMut usage:
-[Documentation](https://github.com/gabrielkytz2/xgbmut/raw/main/Readme.pdf)
+[Documentation](https://github.com/gabrielkytz2/XGBmut/blob/main/Documentation.pdf)
 
 Download XGBMUT:
 [Software](https://drive.google.com/file/d/1ASaPn46pcFqBAee5d-Ulz6uIw5u155Yc/view?usp=sharing)
