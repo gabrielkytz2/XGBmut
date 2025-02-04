@@ -16,7 +16,7 @@ The software can be divided into two main parts: an initial menu where the input
 
 XGBMut requires as the input a .txt file with two columns separated by a tab, containing: the UniProt ID of the affected protein, and the corresponding amino acid substitution under the one-letter code notation. Two input file examples are provided in the <examples> folder, i.e. example_file.txt and humsavar_example.txt. The algorithm initially checks for and removes invalid mutations and protein IDs, which can be written into invalid_mutations.csv (optional). Then, XGBMut search for the corresponding predictor variables in the databases files, which can be saved into predictor_variables.csv (optional). At last, the algorithm predicts whether the mutation is neutral (0) or deleterious (1), together with its probability of being deleterious, which are finally written into output.csv. See usage options below. 
 	
-XGBMut was developed by Gabriel Pereira, PhD.
+XGBMut was developed by Gabriel Pereira, PhD, as a ready-to-use executable file that supports both CLI and GUI interfaces, requiring no installation. For the software to function properly, the executable file must remain within the downloaded folder.
 
 ________________________________________________________________________________________________
 Usage option (CLI):
