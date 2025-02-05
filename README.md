@@ -4,7 +4,8 @@ ________________________________________________________________________________
 For detailed information and tutorials on how to use XGBMut:
 [Documentation](https://github.com/gabrielkytz2/XGBmut/blob/main/Documentation.pdf)
 
-Download XGBMUT: [Linux](https://drive.google.com/file/d/1aNEDT4rE_GtWuWHcfhniMNystUarZf2y/view?usp=sharing) 
+Download XGBMUT: 
+[Linux](https://drive.google.com/file/d/1aNEDT4rE_GtWuWHcfhniMNystUarZf2y/view?usp=sharing) 
 [Windows](https://drive.google.com/file/d/1KPF7DREid_6ts3j7XtNjZZOqB7BjJb1D/view?usp=sharing)
 _________________________________________________________________________________________________
 
